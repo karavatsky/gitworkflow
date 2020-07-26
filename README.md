@@ -10,3 +10,4 @@ task 5 text
 hostfix2
 task 6 text
 task 6 text 2
+task 7 text
